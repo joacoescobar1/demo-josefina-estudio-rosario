@@ -14,3 +14,9 @@ Fotos de [Unsplash](https://unsplash.com), bajo la [Licencia Unsplash](https://u
 | `img/grupo-hiphop.webp` | https://unsplash.com/photos/womens-black-shirt-lot-GRDpPpKczdY |
 
 Logo y marca Nodo Ventas: diseño propio. Tipografías: Google Fonts (OFL).
+
+## Marca y fotos del negocio
+
+- Wordmark tipográfico «Josefina / Estudio Pilates», calcado de su cartel y de la cabecera de su Google Site https://sites.google.com/view/josefina-estudiopilates. No se inventó un isotipo.
+- Paleta rosa–naranja de esa misma cabecera (#E84080 → #E88040).
+- Fotos del local: ficha pública en https://josefina-estudio.wheree.com/ (frente, sala y reformer).
